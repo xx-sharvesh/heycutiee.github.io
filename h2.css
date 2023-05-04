@@ -31,9 +31,9 @@ body {
 .paper.image p {
   font-size: 45px;
 }
-img {
   max-height: 150px;
-  width: 30%;
+img {
+  width: 50%;
   text-align: center;
   user-select: none;
 }

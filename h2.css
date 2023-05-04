@@ -18,6 +18,16 @@ body {
   box-shadow: 1px 15px 20px 0px rgba(0,0,0,0.5);
   position: absolute;
 }
+  .paper1 {
+  background-image: url("https://i0.wp.com/textures.world/wp-content/uploads/2018/10/2-Millimeter-Paper-Background-copy.jpg?ssl=1");
+  background-size: 700px;
+  background-position: center center;
+  padding: 20px 100px;
+  //min-width: 800px;
+  transform: rotateZ(-5deg);
+  box-shadow: 1px 15px 20px 0px rgba(0,0,0,0.5);
+  position: absolute;
+}
 .paper.heart {
   position: relative;
   width: 200px;
